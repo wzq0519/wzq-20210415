@@ -1,0 +1,21 @@
+熟练掌握Java、Shell、scala、Python开发语言语言?
+深入了解分布式系统、大数据平台、消息队列等高可用高弹性架构
+对HDFS/Yarn/HBase/Hive/Spark/kafka相关组件的性能优化和补丁跟踪等有实际经验
+负责大数据平台消息中间件/Hadoop/实时计算/OLAP的运营支撑和架构优化
+熟悉spring boot框架，有一定的研发经验；?
+熟悉JVM/GC原理，有项目调优经验；?
+熟练掌握Hive/SQL熟悉大数据的离线和实时处理，可以进行数据模型的设计、开发；
+熟练HSql，有丰富的Hive sql性能调优经验；
+熟悉业内主流BI产品，帆软，Echar、Hchar、antv?
+有SparkStreaming的实时统计或实时规则引擎整体架构开发经验
+熟悉mysql、ElasticSearch、Redis、Hbase等关系型或NoSQL数据库，有实际调优经验
+熟悉git，jira等工具
+熟悉 etl 分层（ODS、CWD、DWD、AWD）建设方法
+熟练使用Git, Maven，Gradle等工具，熟悉Tomcat，Nginx等开源服务器。
+具备基于Hadoop大数据平台开发经验，熟悉SQL、ETL工具，有一定大数据处理经验，能够独立进行服务部署以及大数据查询服务引擎开发；
+熟悉Hadoop、Kafka、Hive、Spark、Mongodb、Redis能够进行常用的ETL开发工作及服务维护；
+熟悉广告引擎DMP原理及用户画像
+具备海量数据处理开发经验，有Hbase 相关开发经验
+
+
+4  1  8  6    6  5  5   2   5  14  8   5  
